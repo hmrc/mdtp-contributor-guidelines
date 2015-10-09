@@ -40,4 +40,4 @@ It is the responsibility of both the Pull Requestor and Owning Team to follow th
 
 ## Repository Guidelines
 
-Repository-specific guidelines from the Owning Team go here, if necessary. 
+Repository-specific guidelines go here, at the discretion of the Owning Team.
