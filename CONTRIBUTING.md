@@ -1,34 +1,29 @@
 # MDTP Contributor Guidelines
 
-Hello! Thank you for taking the time to contribute to the [HMRC Multichannel Digital Tax Platform](https://hmrc.github.io) (MDTP).
+Hello! Thank you for taking the time to contribute to the [HMRC Multichannel Digital Tax Platform](https://hmrc.github.io) (MDTP). Please take a few minutes to review this process and guidelines before you submit your request, otherwise it may be rejected. 
 
-Every service or library on the MDTP is owned by a single team, in order to ensure no central repositories and/or teams constrain service delivery. Therefore this page describes the process for an individual or a team (the "Pull Requestor") to contribute to a repository (the "Repository") belonging to another team (the "Owning Team"). 
+> It is important to remember that an Issue and a Pull Request are a placeholder for a conversation between the Pull Requestor and the Owning Team - people and interactions are more important than processes and tools. The Pull Requestor should contact the Owning Team as soon as changes to the Repository are considered.
 
-The contribution process is twofold: 
-- MDTP Guidelines: uniform guidelines applying to all repositories
-- Repository Guidelines: contextual guidelines for a specific repository
+## MDTP Contribution Process 
 
-It is the responsibility of both the Pull Requestor and Owning Team to follow these guidelines. If the Pull Requestor does not follow these guidelines, the Owning Team will reject the changes and may resist future Pull Requests. 
-
-> It is important to remember that an Issue and a Pull Request are a placeholder for a conversation between the Pull Requestor and the Owning Team - people and interactions are important than processes and tools. The Pull Requestor should contact the Owning Team as soon as changes to the Repository are considered.
-
-## MDTP Guidelines 
+This process applies to all repos in our organisation. Every mircoservice or library on the MDTP is looked after by a particular service team, allowing them to have full control over the functionality that is core to their service. The owning service team are responsible for reviewing and choosing to accept your PR. 
 
 1. The Owning Team stands ready for Pull Requests and reserves some per-team capacity to monitor, review, and test Pull Requests
-2. The Pull Requestor opens an Issue on the Repository and talks with the Owning Team about the proposed changes. 
+2. The Pull Requestor opens an Issue on the Repository and talks with the Owning Team about the proposed changes
 3. The Owning Team informs the Pull Requestor:
     1. If the proposed change is unnecessary i.e. if the Repository already supports the desired outcome
     2. If the proposed change is undesirable e.g. rejected in the past from a different Pull Requestor
     3. If the proposed change can be reviewed and released into production in a timeline acceptable to both the Pull Requestor and the Owning Team
-4. The Pull Requestor forks the Repository and makes the proposed changes - including new tests
-5. The Pull Requestor runs the Repository build locally and ensures all tests pass
-6. The Pull Requestor pushes their changes to their branch and raises a Pull Request against the Repository Issue
+4. The Pull Requestor:
+    5. Forks the Repository and makes the proposed changes - including new tests
+    5. Runs the Repository build locally and ensures all tests pass
+    6. Pushes their changes to their fork and raises a Pull Request against the Repository Issue
 7. The Owning Team reviews the Pull Request according to the following criteria:
-    1. Can the changes be compiled and tested?
-    2. Do the changes clearly indicate what they are trying to achieve?
-    2. Are the changes aligned with our coding standards and our architectural approach?
-    3. Are the changes compatible with other in-flight changes to the Repository?
-    4. Do the changes introduec any new operational concerns e.g. performance, security?
+    * Can the changes be compiled and tested?
+    * Do the changes clearly indicate what they are trying to achieve?
+    * Are the changes aligned with our coding standards and our architectural approach?
+    * Are the changes compatible with other in-flight changes to the Repository?
+    * Do the changes introduec any new operational concerns e.g. performance, security?
 8. The Owning Team accepts or rejects the Pull Request
 9. If rejected, the Pull Requestor asks the Owning Team for feedback
 10. If accepted, the Owning Team merges the changes into the Repository and creates a new release
@@ -40,4 +35,4 @@ It is the responsibility of both the Pull Requestor and Owning Team to follow th
 
 ## Repository Guidelines
 
-Repository-specific guidelines go here, at the discretion of the Owning Team.
+_Repository-specific guidelines go here, at the discretion of the Owning Team._
