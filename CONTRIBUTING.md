@@ -5,8 +5,8 @@ Hello! Thank you for taking the time to contribute to the [HMRC Multichannel Dig
 Every service or library on the MDTP is owned by a single team, in order to ensure no central repositories and/or teams constrain service delivery. Therefore this page describes the process for an individual or a team (the "Pull Requestor") to contribute to a repository (the "Repository") belonging to another team (the "Owning Team"). 
 
 The contribution process is twofold: 
-- MDTP Guidelines: uniform guidelines applying to all repositories regardless of Pull Requestor, Owning Team, and Repository
-- Repository Guidelines: contextual guidelines for a specific Repository owned by the Owning Team
+- MDTP Guidelines: uniform guidelines applying to all repositories
+- Repository Guidelines: contextual guidelines for a specific repository
 
 It is the responsibility of both the Pull Requestor and Owning Team to follow these guidelines. If the Pull Requestor does not follow these guidelines, the Owning Team will reject the changes and may resist future Pull Requests. 
 
