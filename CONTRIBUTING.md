@@ -2,7 +2,7 @@
 
 Hello! Thank you for taking the time to contribute to the [HMRC Multichannel Digital Tax Platform](https://hmrc.github.io) (MDTP).
 
-Every service or library on the MDTP is owned by a single team, in order to ensure no central repositories and/or teams constrain service delivery. Therefore this page is a description of the process for an individual or a team (the "Pull Requestor") to contribute a Pull Request to a repository (the "Repository") belonging to another team (the "Owning Team"). 
+Every service or library on the MDTP is owned by a single team, in order to ensure no central repositories and/or teams constrain service delivery. Therefore this page describes the process for an individual or a team (the "Pull Requestor") to contribute to a repository (the "Repository") belonging to another team (the "Owning Team"). 
 
 The contribution process is twofold: 
 - MDTP Guidelines: uniform guidelines applying to all repositories regardless of Pull Requestor, Owning Team, and Repository
@@ -10,7 +10,7 @@ The contribution process is twofold:
 
 It is the responsibility of both the Pull Requestor and Owning Team to follow these guidelines. If the Pull Requestor does not follow these guidelines, the Owning Team will reject the changes and may resist future Pull Requests. 
 
-It is important to remember that an Issue and a Pull Request is a placeholder for a conversation between the Pull Requestor and the Owning Team - people and interactions are important than processes and tools. The Pull Requestor should contact the Owning Team as soon as changes to the Repository are considered.
+    It is important to remember that an Issue and a Pull Request is a placeholder for a conversation between the Pull Requestor and the Owning Team - people and interactions are important than processes and tools. The Pull Requestor should contact the Owning Team as soon as changes to the Repository are considered.
 
 ## MDTP Guidelines 
 
