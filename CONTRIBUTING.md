@@ -5,10 +5,10 @@ Hello! Thank you for taking the time to contribute to the [HMRC Multichannel Dig
 This page describes the process for MDTP contributions. Every service or library on the MDTP is owned by a single team, in order to ensure no central repositories and/or teams constrain service delivery. Therefore this page is a description of the process for an individual or a team (the "Pull Requestor") to contribute a Pull Request to a repository (the "Repository") belonging to another team (the "Owning Team"). 
 
 The contribution process is twofold: 
-- MDTP Guidelines: uniform guidelines that apply to all repositories regardless of Pull Requestor, Owning Team, and Repository
-- Repository Guidelines: contextual guidelines owned by the Owning Team for a specific Repository
+- MDTP Guidelines: uniform guidelines applying to all repositories regardless of Pull Requestor, Owning Team, and Repository
+- Repository Guidelines: contextual guidelines for a specific Repository owned by the Owning Team
 
-It is the responsibility of both the Pull Requestor and Owning Team to follow these guidelines. If the Pull Requestor in particular does not follow these guidelines, it is highly likely the Owning Team will reject the changes and resist future Pull Requests from the Pull Requestor. 
+It is the responsibility of both the Pull Requestor and Owning Team to follow these guidelines. If the Pull Requestor does not follow these guidelines, the Owning Team will reject the changes and may resist future Pull Requests. 
 
 It is important to remember that an Issue and a Pull Request is a placeholder for a conversation between the Pull Requestor and the Owning Team - people and interactions are important than processes and tools. The Pull Requestor should contact the Owning Team as soon as changes to the Repository are considered.
 
@@ -29,10 +29,14 @@ It is important to remember that an Issue and a Pull Request is a placeholder fo
     2. Are the changes aligned with our coding standards and our architectural approach?
     3. Are the changes compatible with other in-flight changes to the Repository?
     4. Do the changes introduec any new operational concerns e.g. performance, security?
-5. The Owning Team accepts or rejects the Pull Request
-6. If rejected, the Pull Requestor asks the Owning Team for feedback
-6. If accepted, the Pull Requestor and Owning Team discuss the timing of the optimal pre-production and production launch dates.
-7. 
+8. The Owning Team accepts or rejects the Pull Request
+9. If rejected, the Pull Requestor asks the Owning Team for feedback
+10. If accepted, the Owning Team merges the changes into the Repository and creates a new release
+11. The Pull Requestor and Owning Team discuss the optimal timing of pre-production and production releases
+12. The Owning Team releases the changes into the relevant pre-production environment(s)
+13. The Pull Requestor and Owning Team validate the functional and operational impact in pre-production
+14. The Owning Team schedules a release of the changes into production
+15. The Pull Requestor and Owning Team validate the functional and operational impact in production
 
 ## Repository Guidelines
 
