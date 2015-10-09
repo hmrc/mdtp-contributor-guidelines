@@ -1,6 +1,6 @@
 # mdtp-contributor-guidelines
 
-Guidelines for contributing to HMRC service and libraries on the [HMRC Multichannel Digital Tax Platform](https://hmrc.github.io)
+Guidelines for contributing to service and libraries on the [HMRC Multichannel Digital Tax Platform](https://hmrc.github.io)
 
 ## Purpose
 
