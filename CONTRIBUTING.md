@@ -33,7 +33,7 @@ It is the responsibility of both the Pull Requestor and Owning Team to follow th
 9. If rejected, the Pull Requestor asks the Owning Team for feedback
 10. If accepted, the Owning Team merges the changes into the Repository and creates a new release
 11. The Pull Requestor and Owning Team discuss the optimal timing of pre-production and production releases
-12. The Owning Team releases the changes into the relevant pre-production environment(s)
+12. The Owning Team release the changes into the relevant pre-production environment(s)
 13. The Pull Requestor and Owning Team validate the functional and operational impact in pre-production
 14. The Owning Team schedules a release of the changes into production
 15. The Pull Requestor and Owning Team validate the functional and operational impact in production
