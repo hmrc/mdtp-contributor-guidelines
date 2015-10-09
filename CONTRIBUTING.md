@@ -10,7 +10,7 @@ The contribution process is twofold:
 
 It is the responsibility of both the Pull Requestor and Owning Team to follow these guidelines. If the Pull Requestor does not follow these guidelines, the Owning Team will reject the changes and may resist future Pull Requests. 
 
-    It is important to remember that an Issue and a Pull Request is a placeholder for a conversation between the Pull Requestor and the Owning Team - people and interactions are important than processes and tools. The Pull Requestor should contact the Owning Team as soon as changes to the Repository are considered.
+> It is important to remember that an Issue and a Pull Request is a placeholder for a conversation between the Pull Requestor and the Owning Team - people and interactions are important than processes and tools. The Pull Requestor should contact the Owning Team as soon as changes to the Repository are considered.
 
 ## MDTP Guidelines 
 
