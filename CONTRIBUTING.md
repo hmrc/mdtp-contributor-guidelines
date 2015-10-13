@@ -33,7 +33,3 @@ After the merge, it is the joint responsibility of the Requestor and the Owning 
     * validate the functional and operational impact once the release reaches pre-production and production
 
 It is the responsiblity of the Owning Team alone to deploy/schedule the release into the relevant pre-production and production environment(s).
-
-## Repository Guidelines
-
-_Repository-specific guidelines go here, at the discretion of the Owning Team._
