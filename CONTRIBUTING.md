@@ -23,7 +23,7 @@ This process applies to all repos in our organisation. Every mircoservice or lib
     * Do the changes clearly indicate what they are trying to achieve?
     * Are the changes aligned with our coding standards and our architectural approach?
     * Are the changes compatible with other in-flight changes to the Repository?
-    * Do the changes introduec any new operational concerns e.g. performance, security?
+    * Do the changes introduce any new operational concerns e.g. performance, security?
 8. The Owning Team accepts or rejects the Pull Request
 9. If rejected, the Requestor asks the Owning Team for feedback
 10. If accepted, the Owning Team merges the changes into the Repository and creates a new release
@@ -32,4 +32,4 @@ After the merge, it is the joint responsibility of the Requestor and the Owning 
     * discuss the optimal timing of pre-production and production releases
     * validate the functional and operational impact once the release reaches pre-production and production
 
-It is the responsiblity of the Owning Team alone to deploy/schedule the release into the relevant pre-production and production environment(s).
+It is the responsibility of the Owning Team alone to deploy/schedule the release into the relevant pre-production and production environment(s).
