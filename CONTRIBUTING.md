@@ -1,8 +1,10 @@
 # MDTP Contributor Guidelines
 
-Hello! Thank you for taking the time to contribute to the [HMRC Multichannel Digital Tax Platform](https://hmrc.github.io) (MDTP). Please take a few minutes to review this process and guidelines before you submit your request, otherwise it may be rejected. 
+Hello! 
 
-It is important to remember that an Issue and a Pull Request are a placeholder for a conversation between the Requestor and the Owning Team - people and interactions are more important than processes and tools. The Requestor should contact the Owning Team as soon as changes to the Repository are considered.
+Thank you for taking the time to contribute to the [HMRC Multichannel Digital Tax Platform](https://hmrc.github.io) (MDTP). Please take a few minutes to review this process and guidelines before you submit your request, otherwise it may be rejected. 
+
+> It is important to remember that an Issue and a Pull Request are a placeholder for a conversation between the Requestor and the Owning Team - people and interactions are more important than processes and tools. The Requestor should contact the Owning Team as soon as changes to the Repository are considered.
 
 ## MDTP Contribution Process 
 
